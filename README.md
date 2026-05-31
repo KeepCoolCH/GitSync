@@ -2,7 +2,7 @@
 
 # GitSync for macOS
 
-[![Download GitSync](https://img.shields.io/badge/Download-GitSync-blue)](https://github.com/KeepCoolCH/GitSync/releases/tag/V.1.1)
+[![Download GitSync](https://img.shields.io/badge/Download-GitSync-blue)](https://github.com/KeepCoolCH/GitSync/releases/tag/V.1.0)
 
 **GitSync** is a macOS app for visual Git/GitHub management directly from a graphical interface. You can sync local projects with GitHub, clone repositories, create new repositories, and run common Git workflows without using the terminal.
 Version **1.0** – developed by **Kevin Tobler** 🌐 [www.kevintobler.ch](https://www.kevintobler.ch)
@@ -86,7 +86,7 @@ GitSync supports two methods:
 
 ## 🔧 Installation
 
-[![Download GitSync](https://img.shields.io/badge/Download-GitSync-blue)](https://github.com/KeepCoolCH/GitSync/releases/tag/V.1.1)
+[![Download GitSync](https://img.shields.io/badge/Download-GitSync-blue)](https://github.com/KeepCoolCH/GitSync/releases/tag/V.1.0)
 
 1. Download the latest GitSync release from GitHub.
 2. Open the downloaded DMG file.
